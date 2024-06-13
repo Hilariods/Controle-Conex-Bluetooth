@@ -100,7 +100,5 @@ Crie uma interface de usuário simples onde o usuário pode escolher o tempo de 
 - **Documentação e Suporte**: Fornecer documentação clara e suporte para os usuários finais.
 - **Segurança**: Implemente medidas de segurança para proteger a comunicação Bluetooth contra acessos não autorizados.
 
-Este esboço fornece uma base sólida para desenvolver um sistema de controle de desconexão Bluetooth personalizado. Ajuste o código conforme necessário, levando em consideração as especificações e requisitos do seu projeto.
-
 © 2024 Todos os direitos reservados.
 ```
